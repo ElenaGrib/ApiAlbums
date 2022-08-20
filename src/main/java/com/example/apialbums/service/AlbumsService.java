@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.appsdeveloperblog.photoapp.api.albums.service;
+package com.example.apialbums.service;
 
+import com.example.apialbums.data.AlbumEntity;
 
-import com.appsdeveloperblog.photoapp.api.albums.data.AlbumEntity;
 import java.util.List;
 
 public interface AlbumsService {
